@@ -76,6 +76,6 @@ run `python3 savedCredentials.py`
 - <p>Channel: <a href="https://t.me/FlaskPhisherOfficial">https://t.me/FlaskPhisherOfficial</a></p>
 - <p>Channel: <a href="https://t.me/hezplora">https://t.me/hezplora</a></p>
 
-# Discussion & Latest Updates
+# Note
 - This project was developed by Sithum-Nimlaka and It was later updated by Nurudeen O.A
-# Flask-Phishing
+
