@@ -74,15 +74,8 @@ run `python3 savedCredentials.py`
 # Discussion & Latest Updates
 - For latest updates, and discuss about bugs join our telegram channel and group via the following links.
 - <p>Channel: <a href="https://t.me/FlaskPhisherOfficial">https://t.me/FlaskPhisherOfficial</a></p>
-# Flask-Phishing
-# Flask-Phishing
-# Flask-Phishing
-# Flask-Phishing
-# Flask-Phishing
-# Flask-Phishing
-# Flask-Phishing
-# Flask-Phishing
-# Flask-Phishing
-# Flask-Phishing
-# Flask-Phishing
+- <p>Channel: <a href="https://t.me/hezplora">https://t.me/hezplora</a></p>
+
+# Discussion & Latest Updates
+- This project was developed by Sithum-Nimlaka and It was later updated by Nurudeen O.A
 # Flask-Phishing
