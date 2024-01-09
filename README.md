@@ -11,7 +11,7 @@ FlaskPhisher is a tool to generate phishing pages that target social media websi
   
 ## AVAILABLE TUNNELLING OPTIONS
 - Localhost
-- Ngrok
+- Try and make use of some port forwarding servers 
 
 ## 🖥Tested Platforms🖥
 - Windows 10
